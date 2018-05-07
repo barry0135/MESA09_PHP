@@ -1,0 +1,2 @@
+<?php
+all word
